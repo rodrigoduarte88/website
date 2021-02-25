@@ -1,0 +1,14 @@
+---
+title: "Example website"
+output: 
+  html_document:
+    theme: cosmo
+---
+
+***
+
+This is an example website
+
+***
+
+* [Example page](example_rmarkdown.html)
